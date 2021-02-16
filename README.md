@@ -9,7 +9,7 @@
 
 ### SourceCode
 ### 지도학습
- * 첫번째 머신러닝 모델 만들어보기 [html](https://ldjwj.github.io/AI_START_LionLike/part03_ml/code/ch01_01_ML_start_v10.html) [pdf](https://ldjwj.github.io/AI_START_LionLike/part03_ml/code/ch01_01_ML_start_v10.pdf)
+ * 첫번째 머신러닝 모델 만들어보기 [html](https://ldjwj.github.io/AI_START_LionLike/part03_ml/code/ch01_01_ML_start_v11.html) [pdf](https://ldjwj.github.io/AI_START_LionLike/part03_ml/code/ch01_01_ML_start_v11.pdf)
  
 ### 수업관련 참조링크
  * 머신러닝 수업 
