@@ -6,7 +6,6 @@
  
 #### PDF
  * 머신러닝 시작하기 [pdf](https://ldjwj.github.io/AI_START_LionLike/part03_ml/ch01_01_ML입문_v11_201201.pdf) 
- * 머신러닝 기본 [pdf](https://ldjwj.github.io/AI_START_LionLike/part03_ml/ch01_02_ML기본_v10_201201.pdf)  
 
 ### SourceCode
 ### 지도학습
