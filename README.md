@@ -14,18 +14,19 @@
 ### 수업관련 참조링크
  * 머신러닝 수업 
    * [https://ldjwj.github.io/ML_Basic_Class]
+   
  * 딥러닝 수업
    * [https://ldjwj.github.io/DL_Basic/]
 
  * 캐글 코리아 1차 대회 
-    * 타이타닉 생존자를 예측하라[Link](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr)
+    * 타이타닉 생존자를 예측하라 [Link](https://www.kaggle.com/c/2019-1st-ml-month-with-kakr)
  
  * 캐글 코리아 2차 대회 
-    * 집 가격 예측[Link](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
+    * 집 가격 예측 [Link](https://www.kaggle.com/c/2019-2nd-ml-month-with-kakr)
 
 ### 캐글 대회 링크
- * Titanic - Machine Learning from Disaster [Link] https://www.kaggle.com/c/titanic
- * Bike Sharing Demand [Link] https://www.kaggle.com/c/bike-sharing-demand
+ * Titanic - Machine Learning from Disaster [Link](https://www.kaggle.com/c/titanic)
+ * Bike Sharing Demand [Link](https://www.kaggle.com/c/bike-sharing-demand)
  
  * 내용은 파이썬 라이브러리를 활용한 머신러닝을 참고하여 작성했습니다.
  * 저작권에 침해되는 부분이 있으면 frontier1020@naver.com 메일 주세요.
