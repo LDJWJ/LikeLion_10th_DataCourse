@@ -1,8 +1,8 @@
 # 멋쟁이 사자처럼 인공지능 기본 1기
 
 ### 머신러닝 기본 및 실습
- * github [Link](https://github.com/LDJWJ/AI_START_LionLike)
- * Web URL [Link](https://ldjwj.github.io/AI_START_LionLike/)
+ * GITHUB Repo [Link](https://github.com/LDJWJ/AI_START_LionLike)
+ * WEB URL [Link](https://ldjwj.github.io/AI_START_LionLike/)
  
 #### PDF
  * 머신러닝 시작하기 [pdf](https://ldjwj.github.io/AI_START_LionLike/part03_ml/ch01_01_ML입문_v11_201201.pdf) 
