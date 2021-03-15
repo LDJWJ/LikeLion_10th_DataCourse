@@ -27,6 +27,8 @@
 ### 캐글 대회 링크
  * Titanic - Machine Learning from Disaster [Link](https://www.kaggle.com/c/titanic)
  * Bike Sharing Demand [Link](https://www.kaggle.com/c/bike-sharing-demand)
- 
- * 내용은 파이썬 라이브러리를 활용한 머신러닝을 참고하여 작성했습니다.
- * 저작권에 침해되는 부분이 있으면 frontier1020@naver.com 메일 주세요.
+
+### 메모
+ * 머신러닝 일부 내용은 파이썬 라이브러리를 활용한 머신러닝을 참고하여 작성했습니다.
+   - 예제 코드 출처는 <파이썬 라이브러리를 활용한 머신러닝(번역개정판)>(한빛미디어, 2019)
+ * 학습 자료 중의 중, 저작권에 침해되는 부분이 있으면 frontier1020@naver.com 메일 주세요.
