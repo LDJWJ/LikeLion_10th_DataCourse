@@ -3,10 +3,18 @@
 ### 개발 환경
  - 주피터 노트북, pycharm, 구글 colab
  - 사전 준비 : 구글 gmail 계정
+ - 개발 환경 
+   - 수업에서의 라이브러리 버전 정보(실행 확인 2021.03)
+   - 파이썬 버전 : 3.8.5 (default, Sep 3 2020, 21:29:08) [MSC v.1916 64 bit (AMD64)]
+   - tensorflow 버전 : 2.4.1
+   - 케라스 버전 : 2.4.3
+   - xgboost 버전 : 1.3.3
+   - lightgbm 버전 : 3.1.1
+   - hyperopt 버전 : 0.2.5
+   - 일부 라이브러리 버전이 맞지 않을 경우, 소스코드 일부가 실행이 되지 않을 수 있습니다.
 
 ### Level 01 - 머신러닝/딥러닝 개요 및 오리엔테이션(4) 
  - 과정 커리큘럼
- - 개발환경 Setting
  - 머신러닝에 대해 기본 개념 알아보기
  - 딥러닝에 대해 기본 개념 알아보기
 
@@ -105,11 +113,6 @@
 ### 머신러닝 기본 및 실습
  * GITHUB Repo [Link](https://github.com/LDJWJ/AI_START_LionLike)
  * WEB URL [Link](https://ldjwj.github.io/AI_START_LionLike/)
- 
-#### 
- * 머신러닝/딥러닝 개요
- * 과정 오리엔테이션
- * 
 
 ### SourceCode
 ### 지도학습
