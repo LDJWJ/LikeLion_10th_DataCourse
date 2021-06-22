@@ -1,6 +1,6 @@
 
-# 빅데이터 사이언스 실무자 양성과정
-* BigData Science Practical Training Course
+# AI School - 10회차
+* 프로젝트로 익히는 실전 데이터 분석 및 딥러닝 입문
 
 <div align='right'>
     <font size=2 color='gray'>파이썬@ <font color='blue'>
@@ -8,33 +8,32 @@
     </font>, [임동조](frontierlim13@gmail.com)</font></div>
 <hr>
 
-<h2><font color="#00CCCC"><b>SBA 빅데이터 사이언스 실무자</b></font></h2>
+<h2><font color="#00CCCC"><b>데이터 사이언티스트 실무자</b></font></h2>
 
 <img src="./images/BigData_Project.png">
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-일일 프로젝트 진행
-2019.10.15(화) ~ 2019.10.22(화) <br>
-STEP 01. 과제 선정 <br>
-STEP 02. 데이터 수집 및 처리/시각화 <br>
-STEP 03. CNN 딥러닝 모델 만들기 및 성능 고도화 <br>
-STEP 04. 2019.10.21 23:00 결과물 제출  <br>
+세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
+2021.06.22(화) ~ 2021.06.25(화) <br>
+STEP 01. 코로나 주제 선정 <br>
+STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
+STEP 03. 2021.06.24(목) 22:00 최종 결과물 제출<br>
+STEP 04. 2021.06.25(금) 10:00 최종 결과물 발표<br>
 
 팀별 발표   <br>
-2019.10.22(화) 
- 
+2021.06.25(금) 
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
 
 # 문서초안-세부 사항은 변경될 수 있음.
-- Proj-01. [포트폴리오 자료           ][proj-01]
-- Proj-02. [프로젝트보고서 포맷           ][proj-02]
+- Proj-01. [포트폴리오 자료      ][proj-01]
+- Proj-02. [프로젝트보고서 포맷   ][proj-02]
 
 
-[proj-01]:  ./docu/Kaggle_Portfolio_v10_1015.pdf     "Go proj-01"
-[proj-02]:  ./docu/SBA19_프로젝트보고서_포맷_OOO팀.docx           "Go proj-02"
+[proj-01]:  ./docu/Kaggle_Portfolio_v10_1015.pdf  "Go proj-01"
+[proj-02]:  ./docu/SBA19_프로젝트보고서_포맷_OOO팀.docx   "Go proj-02"
 
 <hr>
 
@@ -43,7 +42,7 @@ STEP 04. 2019.10.21 23:00 결과물 제출  <br>
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
-- <b>Report Format </b>: <a href="./docu/SBA19_프로젝트보고서_포맷_OOO팀.docx">착수보고서 양식</a>
+- <b>Report Format </b>: <a href="./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx">착수보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 
@@ -66,80 +65,128 @@ STEP 04. 2019.10.21 23:00 결과물 제출  <br>
 	<tr>
 		<td>
         <div align="center"> 
-            A팀<br/> 
-            <b>운송 수단</b>                                                                                                   </div></td>
+            1팀(팀장:김동화)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 김지은<br/> 김은비, 성현민,홍성민</div>
+                 김동화<br/>김남은, 김민수, 최민혁</div>
         </td>
-		<td><div align="left"  > CIFAR10 응용모델 만들기 프로젝트 – 운송수단을 중심으로 </div></td>
+		<td><div align="left"  > ____ </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/job_support01.png' width=200 height=100  alt="운송수단"></a>    
+            <img src='images/job_support01.png' width=200 height=100  alt="팀명"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
         <div align="center"> 
-            B팀<br/> 
-            <b>박수줘</b>                                                                                                   </div></td>
+            2팀(팀장:김현준)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 김슬기<coludyju11@naver.com><br/> 김봉수, 손하늘, 이찬희 </div>
+                 김현준<____@naver.com><br/> 김지연, 정희경 </div>
         </td>
-		<td><div align="left"  > 특징에 따른 동물 분류 </div></td>
+		<td><div align="left"  > ____ </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100></a>    
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100  alt="팀명"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
         <div align="center"> 
-            C팀<br/> 
-            <b>ㅇ넷</b>                                                                                                   </div></td>
+            3팀(팀장:박성준)<br/> 
+            <b>___</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 김은수<br/> 김태웅, 김재경, 이승은 </div>
+                 박성준<br/> 박상엽, 이지은 </div>
         </td>
-		<td><div align="left"  > 물체 사진 딥러닝 </div></td>
+		<td><div align="left"  > 물체 사진 딥러닝___ </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="ㅇ넷"></a>    
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
         <div align="center"> 
-            D팀<br/> 
-            <b>멋쟁이 토마토팀</b>                                                                                                   </div></td>
+            4팀(팀장:이성준)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 양한솔<br/> 류경아, 이송현, 김수환 </div>
+                 이성준<br/> 노진희, 조희창 </div>
         </td>
-		<td><div align="left"  > 토마토 숙성 여부 이미지 분류 </div></td>
+		<td><div align="left"  > ______ </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="멋쟁이토마토팀"></a>    
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
         <div align="center"> 
-            E팀<br/> 
-            <b>온난화팀</b>                                                                                                   </div></td>
+            5팀(팀장:이응진)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 이강산<kisb110116@gmail.com><br/> 백서연 윤종필 권다연 </div>
+                 이응진<kisb110116@gmail.com><br/> 남연주, 류지인 </div>
         </td>
 		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="온난화팀"></a>    
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 
+            6팀(팀장:이예준)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
+		<td>
+            <div align="left"  > 
+                 이예준<kisb110116@gmail.com><br/> 최수연, 최아름 </div>
+        </td>
+		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이___ </div></td>
+		<td>
+            <div align="center"> <a href="reports/..">
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 
+            7팀(팀장:이준명)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
+		<td>
+            <div align="left"  > 
+                 이준명<kisb110116@gmail.com><br/> 안현우, 양소연, 양효진 </div>
+        </td>
+		<td><div align="left"  > 펭귄,___ </div></td>
+		<td>
+            <div align="center"> <a href="reports/..">
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            </div>
+        </td>
+	</tr>
+	<tr>
+		<td>
+        <div align="center"> 
+            8팀(팀장:전명운)<br/> 
+            <b>팀명</b>                                                                                                   </div></td>
+		<td>
+            <div align="left"  > 
+                 전명운<kisb110116@gmail.com><br/> 김현, 김혜린, 이규림 </div>
+        </td>
+		<td><div align="left"  > 펭귄,___ </div></td>
+		<td>
+            <div align="center"> <a href="reports/..">
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
@@ -147,8 +194,8 @@ STEP 04. 2019.10.21 23:00 결과물 제출  <br>
 </div>
 <hr>
 
-[![Video Label](images/sba_seoulIt01.png)](https://youtu.be/ts2FFGpPqpA) 
-### SBA19 빅데이터 실무자 양성과정 1기 !!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
+[![Video Label](images/basiclogo_E_H_노션.jpg)](____) 
+### 멋쟁이 사자처럼 실무 데이터 사이언티스트 1기!  최고 멋진 친구들 버전 화이팅!!! ver3 ^^
 
 <hr>
 
