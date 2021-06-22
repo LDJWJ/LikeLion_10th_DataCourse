@@ -16,13 +16,13 @@
 
 세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
 * 기간 : 2021.06.22(화) ~ 2021.06.25(화) <br>
-* STEP 01. 코로나 주제 선정 <br>
-* STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
-* STEP 03. 2021.06.24(목) 22:00 최종 결과물 제출<br>
-* STEP 04. 2021.06.25(금) 10:00 최종 결과물 발표<br>
+  * STEP 01. 코로나 주제 선정 <br>
+  * STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
+  * STEP 03. 2021.06.24(목) 22:00 최종 결과물 제출<br>
+  * STEP 04. 2021.06.25(금) 10:00 최종 결과물 발표<br>
 
-팀별 발표   <br>
-2021.06.25(금) 
+* 팀별 최종 발표   <br>
+  * 2021.06.25(금) 10:00 (5-10분)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -32,8 +32,8 @@
 - Proj-02. [프로젝트보고서 포맷   ][proj-02]
 
 
-[proj-01]:  ./docu/Kaggle_Portfolio_v10_1015.pdf  "Go proj-01"
-[proj-02]:  ./docu/SBA19_프로젝트보고서_포맷_OOO팀.docx   "Go proj-02"
+[proj-01]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
+[proj-02]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-02"
 
 <hr>
 
@@ -216,13 +216,13 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김지은, 김은비, 성현민,홍성민 </div></td>
+		<td><div align="left" > 김동화, 김남은, 김민수, 최민혁 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01A_착수보고서_운송수단팀.pdf">[A팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_01A_착수보고서_운송수단팀.pdf">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_A_carry/code/">[A팀 소스코드]</a>  
 			</div>
 		</td>
@@ -249,7 +249,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김슬기, 김봉수, 손하늘, 이찬희 </div></td>
+		<td><div align="left" > 김현준, 김지연, 정희경 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -284,7 +284,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 김은수, 김태웅, 김재경, 이승은 </div></td>
+		<td><div align="left" > 박성준, 박상엽, 이지은 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
