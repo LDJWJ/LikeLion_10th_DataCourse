@@ -29,7 +29,7 @@
 
 # 문서초안-세부 사항은 변경될 수 있음.
 - Proj-01. [포트폴리오 자료      ][proj-01]
-- Proj-02. [프로젝트보고서 포맷   ][proj-02]
+- Proj-02. [프로젝트 결과보고서 포맷   ][proj-02]
 
 
 [proj-01]:  ./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx "Go proj-01"
@@ -42,7 +42,7 @@
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
-- <b>Report Format </b>: <a href="./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx">착수보고서 양식</a>
+- <b>Report Format </b>: <a href="./docu/LikeLion10_프로젝트보고서_포맷_OOO팀.docx">(샘플)보고서 양식</a>
 - ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 
@@ -255,7 +255,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01B_착수보고서_박수줘.pdf">[B팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_01B_착수보고서_박수줘.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_B_cheer/code/">[B팀 소스코드]</a>  
 			</div>
 		</td>
@@ -290,7 +290,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01C_착수보고서_ㅇ넷팀.pdf">[C팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_01C_착수보고서_ㅇ넷팀.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_C_o4/code/">[C팀 소스코드]</a>  
 			</div>
 		</td>
@@ -324,7 +324,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_D_tomato/code/">[D팀 소스코드]</a>  
 			</div>
 		</td>
@@ -356,7 +356,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_D_tomato/code/">[D팀 소스코드]</a>  
 			</div>
 		</td>
@@ -390,8 +390,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[E팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[E팀 소스코드]</a>  
+				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[F팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[F팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -422,8 +422,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[E팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[E팀 소스코드]</a>  
+				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[G팀 결과보고]</a>  
 			</div>
 		</td>
 	</tr>
@@ -454,8 +454,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[E팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[E팀 소스코드]</a>  
+				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[H팀 결과보고]</a>  
 			</div>
 		</td>
 	</tr>
