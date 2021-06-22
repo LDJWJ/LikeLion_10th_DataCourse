@@ -1,19 +1,9 @@
-# SBA01_BigData_TEST
+# 멋쟁이 사자처럼 10기 
+### 프로젝트로 익히는 실전 데이터 분석 및 딥러닝
 
-## 빅데이터 1기
-## 01_R_Class
-https://ldjwj.github.io/00_SBA01_BigData/05_HTML/idx_lec_list
+## Repoistory Home
+https://ldjwj.github.io/LionLike_10th_DataCourse/
 
-## 02_DeepLearning_Class 
+## 프로젝트 하나
 
-## 03_Kaggle_Class 
-https://ldjwj.github.io/00_SBA01_BigData/05_HTML/idx_lec_kaggle_list.html
-
-## 04_Hadoop_Class
-
-* All Category GitHub URL
-https://ldjwj.github.io/00_SBA01_BigData/
-
-* LINK
-https://github.com/LDJWJ/00_SBA01_BigData/
 
