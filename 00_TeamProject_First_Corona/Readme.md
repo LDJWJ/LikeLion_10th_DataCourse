@@ -229,7 +229,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > CIFAR10 응용모델 만들기 프로젝트 – 운송수단을 중심으로 </div></td>
+		<td><div align="left" > 프로젝트명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -262,7 +262,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 특징에 따른 동물 분류 </div></td>
+		<td><div align="left" > 프로젝트명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -297,7 +297,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 물체 사진 딥러닝 </div></td>
+		<td><div align="left" > 프로젝트명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -307,7 +307,6 @@
 </div>
 <br>
 <hr>
-
 
 ### <font color="red">Project Team D </font>
 
@@ -319,7 +318,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 양한솔, 류경아, 이송현, 김수환 </div></td>
+		<td><div align="left" > 이성준, 노진희, 조희창 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -332,7 +331,39 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 토마토 숙성 여부 이미지 분류</div></td>
+		<td><div align="left" > 프로젝트명 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Presentation</b></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+	</tr>
+</table>
+</div>
+
+### <font color="red">Project Team E </font>
+
+<div align=left width=100%>
+<table border=1 width=100%>
+	<tr>
+		<td width="25%"><div align="center"><b>Project Team</b></div></td>
+		<td width="75%"><div align="left" > 멋쟁이 토마토팀 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Team Members</b></div></td>
+		<td><div align="left" > 이응진, 남연주, 류지인 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Report</b></div></td>
+		<td>
+			<div align="left" > 
+				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_D_tomato/code/">[D팀 소스코드]</a>  
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Subject</b></div></td>
+		<td><div align="left" > 프로젝트명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -343,7 +374,7 @@
 <br>
 <hr>
 
-### <font color="red">Project Team E </font>
+### <font color="red">Project Team F </font>
 
 <div align=left width=100%>
 <table border=1 width=100%>
@@ -353,7 +384,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
-		<td><div align="left" > 이강산, 백서연 윤종필 권다연 </div></td>
+		<td><div align="left" > 이예준, 최수연, 최아름 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Report</b></div></td>
@@ -366,7 +397,71 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 펭귄, 북극곰, 바다표범 지킴이</div></td>
+		<td><div align="left" > 프로젝트</div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Presentation</b></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+	</tr>
+</table>
+</div>
+
+### <font color="red">Project Team G </font>
+
+<div align=left width=100%>
+<table border=1 width=100%>
+	<tr>
+		<td width="25%"><div align="center"><b>Project Team</b></div></td>
+		<td width="75%"><div align="left" > 온난화팀 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Team Members</b></div></td>
+		<td><div align="left" > 이준명, 안현우, 양소연, 양효진 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Report</b></div></td>
+		<td>
+			<div align="left" > 
+				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[E팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[E팀 소스코드]</a>  
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Subject</b></div></td>
+		<td><div align="left" > 프로젝트</div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Presentation</b></div></td>
+		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+	</tr>
+</table>
+</div>
+
+### <font color="red">Project Team H </font>
+
+<div align=left width=100%>
+<table border=1 width=100%>
+	<tr>
+		<td width="25%"><div align="center"><b>Project Team</b></div></td>
+		<td width="75%"><div align="left" > 온난화팀 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Team Members</b></div></td>
+		<td><div align="left" > 전명운, 김현, 김혜린, 이규림 </div></td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Report</b></div></td>
+		<td>
+			<div align="left" > 
+				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[E팀 착수보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[E팀 소스코드]</a>  
+			</div>
+		</td>
+	</tr>
+	<tr>
+		<td><div align="center"><b>Subject</b></div></td>
+		<td><div align="left" > 프로젝트</div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -376,6 +471,4 @@
 </div>
 <br>
 <hr>
-
-
 <div align='right'><font size=2 color='gray'> &lt; The End &gt; </font></div>
