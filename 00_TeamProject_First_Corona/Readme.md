@@ -65,7 +65,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            1팀(팀장:김동화)<br/> 
+            1팀<br/>(팀장:김동화)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -81,7 +81,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            2팀(팀장:김현준)<br/> 
+            2팀<br/>(팀장:김현준)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -97,7 +97,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            3팀(팀장:박성준)<br/> 
+            3팀<br/>(팀장:박성준)<br/> 
             <b>___</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -113,7 +113,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            4팀(팀장:이성준)<br/> 
+            4팀<br/>(팀장:이성준)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -129,7 +129,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            5팀(팀장:이응진)<br/> 
+            5팀<br/>(팀장:이응진)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -145,7 +145,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            6팀(팀장:이예준)<br/> 
+            6팀<br/>(팀장:이예준)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -161,7 +161,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            7팀(팀장:이준명)<br/> 
+            7팀<br/>(팀장:이준명)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -177,7 +177,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            8팀(팀장:전명운)<br/> 
+            8팀<br/>(팀장:전명운)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
