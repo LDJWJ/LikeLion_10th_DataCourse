@@ -73,7 +73,7 @@
         </td>
 		<td><div align="left"  > ____ </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
+            <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
             <img src='images/job_support01.png' width=200 height=100  alt="팀명"></a>    
             </div>
         </td>
@@ -89,7 +89,7 @@
         </td>
 		<td><div align="left"  > ____ </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
+            <div align="center"> <a href="https://github.com/hyunjun33/LikeLion_Web/tree/main/covid_website_analysis">
             <img src='images/medical_pixabay_free.jpg' width=200 height=100  alt="팀명"></a>    
             </div>
         </td>
@@ -137,7 +137,7 @@
         </td>
 		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이 </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
+            <div align="center"> <a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
             <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
