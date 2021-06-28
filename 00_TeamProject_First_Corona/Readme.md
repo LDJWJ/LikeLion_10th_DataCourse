@@ -154,7 +154,7 @@
 		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이___ </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            <img src='images/06_dog_e.png' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
