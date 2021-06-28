@@ -113,8 +113,8 @@
 	<tr>
 		<td>
         <div align="center"> 
-            4팀<br/>(팀장:이성준)<br/> 
-            <b>팀명</b>                                                                                                   </div></td>
+            이희희팀<br/>(팀장:이성준)<br/> 
+            <b>이희희팀</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이성준<br/> 노진희, 조희창 </div>
