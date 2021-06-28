@@ -169,7 +169,7 @@
         </td>
 		<td><div align="left"  > 펭귄,___ </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
+            <div align="center"> <a href="reports/해커톤_이준명_대회.pdf">
             <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
