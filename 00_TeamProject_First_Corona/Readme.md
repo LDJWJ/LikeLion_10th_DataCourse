@@ -167,7 +167,7 @@
             <div align="left"  > 
                  이준명<kisb110116@gmail.com><br/> 안현우, 양소연, 양효진 </div>
         </td>
-		<td><div align="left"  > 펭귄,___ </div></td>
+		<td><div align="left"  > 해커톤 대회 - 친환경 사이트 제작</div></td>
 		<td>
             <div align="center"> <a href="reports/해커톤_이준명_대회.pdf">
             <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
@@ -222,8 +222,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01A_착수보고서_운송수단팀.pdf">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_A_carry/code/">[A팀 소스코드]</a>  
+				<a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -233,7 +233,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -245,7 +245,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 박수줘 </div></td>
+		<td width="75%"><div align="left" > 김현준 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -255,8 +255,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01B_착수보고서_박수줘.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_B_cheer/code/">[B팀 소스코드]</a>  
+				<a href="reports/Team_B_code/">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_B_code/">[B팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -266,7 +266,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/Team_B_code/"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -280,7 +280,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > ㅇ넷 </div></td>
+		<td width="75%"><div align="left" > 사자들 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -290,8 +290,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01C_착수보고서_ㅇ넷팀.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_C_o4/code/">[C팀 소스코드]</a>  
+				<a href="reports/사자들_박성준.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_D_code/">[C팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -301,7 +301,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/사자들_박성준.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -314,7 +314,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 멋쟁이 토마토팀 </div></td>
+		<td width="75%"><div align="left" > 이성준 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -324,8 +324,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_D_tomato/code/">[D팀 소스코드]</a>  
+				<a href="reports/코로나예방_데이터분석_lee.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_code">[D팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -335,7 +335,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/코로나예방_데이터분석_lee.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -346,7 +346,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 멋쟁이 토마토팀 </div></td>
+		<td width="75%"><div align="left" > 이응진 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -356,8 +356,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01D_착수보고서_토마토팀.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_D_tomato/code/">[D팀 소스코드]</a>  
+				<a href="reports/Team_F_code">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_F_code">[D팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -367,7 +367,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/Team_F_code"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -380,7 +380,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 온난화팀 </div></td>
+		<td width="75%"><div align="left" > 이예준 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -390,8 +390,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[F팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[F팀 소스코드]</a>  
+				<a href="reports/Team_F_code">[F팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_F_code">[F팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -401,7 +401,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/Team_F_code"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -412,7 +412,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 온난화팀 </div></td>
+		<td width="75%"><div align="left" > 이준명 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -422,18 +422,18 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[G팀 결과보고]</a>  
+				<a href="reports/해커톤_이준명_대회.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[G팀 소소코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트</div></td>
+		<td><div align="left" > 해커톤 친환경 사이트 제작</div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/해커톤_이준명_대회.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -444,7 +444,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 온난화팀 </div></td>
+		<td width="75%"><div align="left" > 전명운 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -454,18 +454,18 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/SBA19_01E_착수보고서_온난화팀.pdf">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[H팀 결과보고]</a>  
+				<a href="reports/00_New_06_24_214827.pdf">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_E_warning/code/">[H팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트</div></td>
+		<td><div align="left" > 프로젝트 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/SBA19_최종보고서01.txt"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/00_New_06_24_214827.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
