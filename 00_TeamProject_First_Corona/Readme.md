@@ -66,15 +66,15 @@
 		<td>
         <div align="center"> 
             1팀<br/>(팀장:김동화)<br/> 
-            <b>팀명</b>                                                                                                   </div></td>
+            <b>8조였던1조</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  김동화<br/>김남은, 김민수, 최민혁</div>
         </td>
-		<td><div align="left"  > ____ </div></td>
+		<td><div align="left"  > 코로나 시각화 : GDP와 완치율의 상관관계, 대륙별 치명률과 완치률, 국내 지역별 확진자 지도 </div></td>
 		<td>
             <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
-            <img src='images/job_support01.png' width=200 height=100  alt="팀명"></a>    
+            <img src='images/01_pic.png' width=200 height=100  alt="팀명"></a>    
             </div>
         </td>
 	</tr>
@@ -233,7 +233,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization"><img src="images/01_pic.png" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -401,7 +401,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/Team_F_code"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/Team_F_code"><img src="images/06_dog_e.png" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
