@@ -97,32 +97,32 @@
 	<tr>
 		<td>
         <div align="center"> 
-            3팀<br/>(팀장:박성준)<br/> 
-            <b>___</b>                                                                                                   </div></td>
+            사자들<br/>(팀장:박성준)<br/> 
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  박성준<br/> 박상엽, 이지은 </div>
         </td>
-		<td><div align="left"  > 물체 사진 딥러닝___ </div></td>
+		<td><div align="left"  > 백신의 효율적 공급을 위한 데이터 분석 </div></td>
 		<td>
             <div align="center"> <a href="reports/사자들_박성준.pdf">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            <img src='images/03_LikeLion.png' width=200 height=100 alt="사자들"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
         <div align="center"> 
-            이희희팀<br/>(팀장:이성준)<br/> 
-            <b>이희희팀</b>                                                                                                   </div></td>
+            이희희<br/>(팀장:이성준)<br/> 
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이성준<br/> 노진희, 조희창 </div>
         </td>
-		<td><div align="left"  > ______ </div></td>
+		<td><div align="left"  > 코로나19 데이터를 통한 시각화 </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            <div align="center"> <a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
+            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="이희희"></a>    
             </div>
         </td>
 	</tr>
@@ -145,16 +145,16 @@
 	<tr>
 		<td>
         <div align="center"> 
-            6팀<br/>(팀장:이예준)<br/> 
-            <b>팀명</b>                                                                                                   </div></td>
+            황금 시바견<br/>(팀장:이예준)<br/> 
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이예준<kisb110116@gmail.com><br/> 최수연, 최아름 </div>
         </td>
-		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이___ </div></td>
+		<td><div align="left"  > GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
-            <img src='images/06_dog_e.png' width=200 height=100 alt="팀명"></a>    
+            <img src='images/06_dog_e.png' width=200 height=100 alt="황금 시바견"></a>    
             </div>
         </td>
 	</tr>
@@ -291,13 +291,13 @@
 		<td>
 			<div align="left" > 
 				<a href="reports/사자들_박성준.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_D_code/">[C팀 소스코드]</a>  
+				<a href="reports/Team_D_code">[C팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 </div></td>
+		<td><div align="left" > 백신의 효율적 공급을 위한 데이터 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -324,18 +324,17 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/코로나예방_데이터분석_lee.pdf">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_code">[D팀 소스코드]</a>  
+				<a href="reports/https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 </div></td>
+		<td><div align="left" > 코로나19 데이터를 통한 시각화 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/코로나예방_데이터분석_lee.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -380,7 +379,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 이예준 </div></td>
+		<td width="75%"><div align="left" > 황금 시바견 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
@@ -397,7 +396,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트</div></td>
+		<td><div align="left" > GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
