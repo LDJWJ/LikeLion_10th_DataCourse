@@ -66,7 +66,7 @@
 		<td>
         <div align="center"> 
             팀명:8조였던1조<br/>(팀장:김동화)<br/> 
-            <b>8조였던1조</b>                                                                                                   </div></td>
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  김동화<br/>김남은, 김민수, 최민혁</div>
@@ -82,7 +82,7 @@
 		<td>
         <div align="center"> 
             팀명:2팀<br/>(팀장:김현준)<br/> 
-            <b>팀명</b>                                                                                                   </div></td>
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  김현준<br/> 김지연, 정희경 </div>
@@ -130,7 +130,7 @@
 		<td>
         <div align="center"> 
             팀명:이남류<br/>(팀장:이응진)<br/> 
-            <b>이남류</b>                                                                                                   </div></td>
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이응진<br/> 남연주, 류지인 </div>
@@ -162,7 +162,7 @@
 		<td>
         <div align="center"> 
             팀명:ESC팀<br/>(팀장:이준명)<br/> 
-            <b>ESC팀</b>                                                                                                   </div></td>
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이준명<kisb110116@gmail.com><br/> 안현우, 양소연, 양효진 </div>
@@ -178,7 +178,7 @@
 		<td>
         <div align="center"> 
             팀명:피땀멜론<br/>(팀장:전명운)<br/> 
-            <b>피땀멜론</b>                                                                                                   </div></td>
+            <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  전명운<kisb110116@gmail.com><br/> 김현, 김혜린, 이규림 </div>
@@ -432,7 +432,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/해커톤_이준명_대회.pdf"><img src="images/06_image.png" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/해커톤_이준명_대회.pdf"><img src="images/07_image.png" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
@@ -460,11 +460,11 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트 </div></td>
+		<td><div align="left" > 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/00_New_06_24_214827.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/00_New_06_24_214827.pdf"><img src="images/08_image.jpg" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
