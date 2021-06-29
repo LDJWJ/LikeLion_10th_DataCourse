@@ -133,12 +133,12 @@
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
-                 이응진<kisb110116@gmail.com><br/> 남연주, 류지인 </div>
+                 이응진<___@gmail.com><br/> 남연주, 류지인 </div>
         </td>
-		<td><div align="left"  > 펭귄, 북극곰, 바다표범 지킴이 </div></td>
+		<td><div align="left"  > 코로나 예방 데이터 분석 </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            <img src='images/05_leeeunjin.png' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
@@ -355,18 +355,18 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/Team_F_code">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_F_code">[D팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 </div></td>
+		<td><div align="left" > 코로나 예방 데이터 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/Team_F_code"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32"><img src="images/05_leeeunjin.png" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
