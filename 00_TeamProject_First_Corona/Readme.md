@@ -65,7 +65,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            1팀<br/>(팀장:김동화)<br/> 
+            팀명:8조였던1조<br/>(팀장:김동화)<br/> 
             <b>8조였던1조</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -81,7 +81,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            2팀<br/>(팀장:김현준)<br/> 
+            팀명:2팀<br/>(팀장:김현준)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -97,7 +97,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            사자들<br/>(팀장:박성준)<br/> 
+            팀명:사자들<br/>(팀장:박성준)<br/> 
             <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -113,7 +113,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            이희희<br/>(팀장:이성준)<br/> 
+            팀명:이희희<br/>(팀장:이성준)<br/> 
             <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -129,8 +129,8 @@
 	<tr>
 		<td>
         <div align="center"> 
-            5팀<br/>(팀장:이응진)<br/> 
-            <b>팀명</b>                                                                                                   </div></td>
+            팀명:이남류<br/>(팀장:이응진)<br/> 
+            <b>이남류</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
                  이응진<___@gmail.com><br/> 남연주, 류지인 </div>
@@ -145,7 +145,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            황금 시바견<br/>(팀장:이예준)<br/> 
+            팀명:황금 시바견<br/>(팀장:이예준)<br/> 
             <b></b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -161,7 +161,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            7팀<br/>(팀장:이준명)<br/> 
+            팀명:7팀<br/>(팀장:이준명)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -177,7 +177,7 @@
 	<tr>
 		<td>
         <div align="center"> 
-            8팀<br/>(팀장:전명운)<br/> 
+            팀명:8팀<br/>(팀장:전명운)<br/> 
             <b>팀명</b>                                                                                                   </div></td>
 		<td>
             <div align="left"  > 
@@ -345,7 +345,7 @@
 <table border=1 width=100%>
 	<tr>
 		<td width="25%"><div align="center"><b>Project Team</b></div></td>
-		<td width="75%"><div align="left" > 이응진 </div></td>
+		<td width="75%"><div align="left" > 이남류 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Team Members</b></div></td>
