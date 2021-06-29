@@ -167,10 +167,10 @@
             <div align="left"  > 
                  이준명<kisb110116@gmail.com><br/> 안현우, 양소연, 양효진 </div>
         </td>
-		<td><div align="left"  > 해커톤 대회 - 친환경 사이트 제작</div></td>
+		<td><div align="left"  > 친환경 플렛폼 </div></td>
 		<td>
             <div align="center"> <a href="reports/해커톤_이준명_대회.pdf">
-            <img src='images/medical_pixabay_free.jpg' width=200 height=100 alt="팀명"></a>    
+            <img src='images/06_image.png' width=200 height=100 alt="팀명"></a>    
             </div>
         </td>
 	</tr>
@@ -428,11 +428,11 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 해커톤 친환경 사이트 제작</div></td>
+		<td><div align="left" > 친환경 플렛폼</div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
-		<td><div align="left" ><a href="reports/해커톤_이준명_대회.pdf"><img src="images/medical_pixabay_free.jpg" width="90%"></a></div></td>
+		<td><div align="left" ><a href="reports/해커톤_이준명_대회.pdf"><img src="images/06_image.png" width="90%"></a></div></td>
 	</tr>
 </table>
 </div>
