@@ -387,8 +387,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">[D팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_F_code">[D팀 소스코드]</a>  
+				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">[E팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/Team_F_code">[E팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
