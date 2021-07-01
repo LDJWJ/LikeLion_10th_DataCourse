@@ -14,15 +14,19 @@
 
 ## <font color='#00AAAA'>Notice for Team Project</font>
 
-세미 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
-* 기간 : 2021.06.22(화) ~ 2021.06.25(화) <br>
-  * STEP 01. 코로나 주제 선정 <br>
-  * STEP 02. 데이터 수집 및 처리/시각화, 간단한 분석<br>
-  * STEP 03. 2021.06.24(목) 22:00 최종 결과물 제출<br>
-  * STEP 04. 2021.06.25(금) 10:00 최종 결과물 발표<br>
+데이터 분석 프로젝트 진행(웹 데이터 수집 및 시각화, 데이터 분석)
+* 기간 : 2021.06.25(금) ~ 2021.07.09(금) <br>
+  * STEP 01. 데이터 분석 주제 선정 <br>
+  * STEP 02. 데이터 주제 선정 발표 - 06/30<br>
+  * STEP 03. 2021.07.02(목) 22:00 중간 발표<br>
+  * STEP 04. 
+    * 1차 제출 : 2021.07.08(목) 16:00
+    * 2차 제출 : 2021.07.08(목) 22:00  
+  * STEP 05. 2021.07.09(금) 11:00~ 최종 결과물 발표<br>
+  * STEP 06. 2021.07.09(금) 13:00~17:00 발표 내용 보완<br>
 
 * 팀별 최종 발표   <br>
-  * 2021.06.25(금) 10:00 (5-10분)
+  * 2021.07.09(금) 11:00 (10분 내외)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -72,7 +76,7 @@
             <div align="left">김동화<br/>김남은, 김민수, 최민혁</div>
         </td>
 		<td>
-			<div align="left"> 코로나 시각화 : GDP와 완치율의 상관관계, 대륙별 치명률과 완치률, 국내 지역별 확진자 지도 </div></td>
+			<div align="left"> 프로젝트 명 업데이트 필요 </div></td>
 		<td>
             <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
 				<img src='images/01_pic.png' width=200 height=100  alt="8조였던1조"></a>    
@@ -89,7 +93,7 @@
             <div align="left">김현준<br/>김지연, 정희경 </div>
         </td>
 		<td>
-			<div align="left"> 코로나 시각화 </div></td>
+			<div align="left"> 쇼핑몰 의류 판매 아이템 트렌드 분석 </div></td>
 		<td>
             <div align="center"> <a href="https://github.com/hyunjun33/LikeLion_Web/tree/main/covid_website_analysis">
 				<img src='images/02_image.jpg' width=200 height=100  alt="트리플 J"></a>    
@@ -106,7 +110,7 @@
             <div align="left">박성준<br/>박상엽, 이지은 </div>
         </td>
 		<td>
-			<div align="left"> 백신의 효율적 공급을 위한 데이터 분석 </div></td>
+			<div align="left"> 프로젝트 명 업데이트 필요 </div></td>
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
 				<img src='images/03_LikeLion.png' width=200 height=100 alt="사자들"></a>    
@@ -123,7 +127,7 @@
             <div align="left">이성준<br/> 노진희, 조희창 </div>
         </td>
 		<td>
-			<div align="left"  > 코로나19 데이터를 통한 시각화 </div></td>
+			<div align="left"  > 프로젝트 명 업데이트 필요 </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
 				<img src='images/04_image.png' width=200 height=100 alt="이희희"></a>    
@@ -140,7 +144,7 @@
             <div align="left">이응진<br/> 남연주, 류지인 </div>
         </td>
 		<td>
-		    <div align="left"> 코로나 예방 데이터 분석 </div></td>
+		    <div align="left"> 프로젝트 명 업데이트 필요 </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
 				<img src='images/05_leeeunjin.png' width=200 height=100 alt="이남류"></a>    
@@ -157,7 +161,7 @@
             <div align="left">이예준<br/> 최수연, 최아름 </div>
         </td>
 		<td>
-		    <div align="left"> GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
+		    <div align="left"> 프로젝트 명 업데이트 필요 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
               <img src='images/06_dog_e.png' width=200 height=100 alt="황금 시바견"></a> 
@@ -237,7 +241,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 시각화 : GDP와 완치율의 상관관계, 대륙별 치명률과 완치률, 국내 지역별 확진자 지도 </div></td>
+		<td><div align="left" > 프로젝트 명 업데이트 필요 지도 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -276,7 +280,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 시각화 </div></td>
+		<td><div align="left" > 쇼핑몰 의류 판매 아이템 트렌드 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -317,7 +321,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 백신의 효율적 공급을 위한 데이터 분석 </div></td>
+		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -356,7 +360,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나19 데이터를 통한 시각화 </div></td>
+		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -394,7 +398,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 코로나 예방 데이터 분석 </div></td>
+		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -434,7 +438,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > GDP 상위/하위 10개국 간의 parameter 상관관계 비교 </div></td>
+		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -472,7 +476,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 친환경 플렛폼</div></td>
+		<td><div align="left" > 친환경 플렛폼 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
