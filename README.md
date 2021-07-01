@@ -5,5 +5,8 @@
 https://ldjwj.github.io/LikeLion_10th_DataCourse/
 
 ## 프로젝트 하나
+https://github.com/LDJWJ/LionLike_10th_DataCourse/tree/main/00_TeamProject_First_Corona
 
+## 프로젝트 둘
+https://github.com/LDJWJ/LionLike_10th_DataCourse/tree/main/01_Project_Second_DataAnalysis
 
