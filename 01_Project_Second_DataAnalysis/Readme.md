@@ -127,9 +127,9 @@
             <div align="left">이성준<br/> 노진희, 조희창 </div>
         </td>
 		<td>
-			<div align="left"  > 프로젝트 명 업데이트 필요 </div></td>
+			<div align="left"  > 코로나19와 재난문자의 연관성 분석 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
+            <div align="center"> <a href="https://www.notion.so/Team-2b47df72296e41b1b939648eca842cd7">
 				<img src='images/04_image.png' width=200 height=100 alt="이희희"></a>    
             </div>
         </td>
@@ -362,13 +362,13 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
+		<td><div align="left" > 코로나19와 재난문자의 연관성 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-				<a href="https://www.notion.so/6-22-24-bf51706870a346f193cd6da1c5e43b1d">
+				<a href="https://www.notion.so/Team-2b47df72296e41b1b939648eca842cd7">
 					<img src="images/04_image.png" width="90%">
 				</a>
 			</div>
