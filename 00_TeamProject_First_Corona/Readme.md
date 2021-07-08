@@ -193,7 +193,7 @@
 		<td>
 		    <div align="left"> 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
 		<td>
-            <div align="center"> <a href="reports/00_New_06_24_214827.pdf">
+            <div align="center"> <a href="reports/피땀멜론_Big_Data_Visualization_0706.pdf">
 				<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
             </div>
         </td>
@@ -516,7 +516,7 @@
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-			<a href="reports/00_New_06_24_214827.pdf">
+			<a href="reports/피땀멜론_Big_Data_Visualization_0706.pdf">
 				<img src="images/08_image.jpg" width="90%">
 			</a>
 			</div>

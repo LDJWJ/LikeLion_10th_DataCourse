@@ -76,9 +76,9 @@
             <div align="left">김동화<br/>김남은, 김민수, 최민혁</div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 명 업데이트 필요 </div></td>
+			<div align="left"> 버거 지수는 실제로 도시의 발전을 나타낼까? </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
+            <div align="center"> <a href="https://github.com/likelion-aischool-10-teamproject/burger-index">
 				<img src='images/01_pic.png' width=200 height=100  alt="8조였던1조"></a>    
             </div>
         </td>
@@ -95,7 +95,7 @@
 		<td>
 			<div align="left"> 쇼핑몰 의류 판매 아이템 트렌드 분석 </div></td>
 		<td>
-            <div align="center"> <a href="https://github.com/hyunjun33/LikeLion_Web/tree/main/covid_website_analysis">
+            <div align="center"> <a href="___">
 				<img src='images/02_image.jpg' width=200 height=100  alt="트리플 J"></a>    
             </div>
         </td>
@@ -110,7 +110,7 @@
             <div align="left">박성준<br/>박상엽, 이지은 </div>
         </td>
 		<td>
-			<div align="left"> 프로젝트 명 업데이트 필요 </div></td>
+			<div align="left"> 전국 맛집 데이터 분석 </div></td>
 		<td>
             <div align="center"><a href="reports/사자들_박성준.pdf">
 				<img src='images/03_LikeLion.png' width=200 height=100 alt="사자들"></a>    
@@ -144,9 +144,9 @@
             <div align="left">이응진<br/> 남연주, 류지인 </div>
         </td>
 		<td>
-		    <div align="left"> 프로젝트 명 업데이트 필요 </div></td>
+		    <div align="left"> 코로나로 인한 건강에 관한 관심도 변화 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">
+            <div align="center"> <a href="https://www.notion.so/8521d6bf42bd452da8da3930d8e0bd0f">
 				<img src='images/05_leeeunjin.png' width=200 height=100 alt="이남류"></a>    
             </div>
         </td>
@@ -161,7 +161,7 @@
             <div align="left">이예준<br/> 최수연, 최아름 </div>
         </td>
 		<td>
-		    <div align="left"> 프로젝트 명 업데이트 필요 </div></td>
+		    <div align="left"> GDP에 기반한 Covid 데이터 분석 및 시각화 </div></td>
 		<td>
             <div align="center"> <a href="reports/..">
               <img src='images/06_dog_e.png' width=200 height=100 alt="황금 시바견"></a> 
@@ -178,9 +178,9 @@
             <div align="left">이준명<br/> 안현우, 양소연, 양효진 </div>
         </td>
 		<td>
-		    <div align="left"> 친환경 플렛폼 </div></td>
+		    <div align="left"> 기후 변화에 따른 환경영향 </div></td>
 		<td>
-            <div align="center"> <a href="reports/해커톤_이준명_대회.pdf">
+            <div align="center"> <a href="reports/LikeLion_프로젝트계획서_7팀_ESC.pdf">
 				<img src='images/07_image.png' width=200 height=100 alt="ESC팀"></a>    
             </div>
         </td>
@@ -197,8 +197,8 @@
 		<td>
 		    <div align="left"> 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
 		<td>
-            <div align="center"> <a href="reports/00_New_06_24_214827.pdf">
-				<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
+            <div align="center"> <a href="___">
+			<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
             </div>
         </td>
 	</tr>
@@ -234,20 +234,20 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">[A팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="https://github.com/likelion-aischool-10-teamproject/burger-index">[A팀 계획 및 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_A_code/">[A팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트 명 업데이트 필요 지도 </div></td>
+		<td><div align="left" > 버거 지수는 실제로 도시의 발전을 나타낼까? </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-			<a href="https://github.com/likelion-aischool-10-teamproject/corona-visualization">
+			<a href="https://github.com/likelion-aischool-10-teamproject/burger-index">
 				<img src="images/01_pic.png" width="90%">
 			</a>
 			</div>
@@ -273,6 +273,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
+				<a href="reports/LikeLion_프로젝트계획서_트리플J.pdf">[B팀 프로젝트계획서]</a>
 				<a href="reports/Team_B_code/">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_B_code/">[B팀 소스코드]</a>  
 			</div>
@@ -314,6 +315,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
+				<a href="reports/LikeLion_프로젝트계획서_3팀.pdf">[C팀 프로젝트계획서]</a>
 				<a href="reports/사자들_박성준.pdf">[C팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_D_code">[C팀 소스코드]</a>  
 			</div>
@@ -321,7 +323,7 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
+		<td><div align="left" > 전국 맛집 데이터 분석 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -391,14 +393,15 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="https://www.notion.so/268988daf8bc4f52a8f6ee05664c4f32">[E팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="https://www.notion.so/8521d6bf42bd452da8da3930d8e0bd0f">[E팀 중간보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="___">[E팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_F_code">[E팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
+		<td><div align="left" > 코로나로 인한 건강에 관한 관심도 변화 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
@@ -431,6 +434,7 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
+				<a href="https://github.com/yejun-lee/LikeLion/tree/main/Team_Project">[F팀 중간보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_F_code">[F팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_F_code">[F팀 소스코드]</a>  
 			</div>
@@ -438,13 +442,13 @@
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 프로젝트명 업데이트 하기 </div></td>
+		<td><div align="left" > GDP에 기반한 Covid 데이터 분석 및 시각화 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-			<a href="reports/Team_F_code">
+			<a href="https://github.com/yejun-lee/LikeLion/tree/main/Team_Project">
 				<img src="images/06_dog_e.png" width="90%">
 			</a>
 			</div>
@@ -469,20 +473,20 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/해커톤_이준명_대회.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_E_warning/code/">[G팀 소소코드]</a>  
+				<a href="https://www.notion.so/ESC-_-f6922782ca7e48a986e46bc04acd8b73a">[G팀 중간보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="reports/__">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;  
 			</div>
 		</td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Subject</b></div></td>
-		<td><div align="left" > 친환경 플렛폼 </div></td>
+		<td><div align="left" > 기후 변화에 따른 환경영향 </div></td>
 	</tr>
 	<tr>
 		<td><div align="center"><b>Presentation</b></div></td>
 		<td>
 			<div align="left" >
-			<a href="reports/해커톤_이준명_대회.pdf">
+			<a href="https://www.notion.so/ESC-_-f6922782ca7e48a986e46bc04acd8b73a">
 				<img src="images/07_image.png" width="90%">
 			</a>
 			</div>
@@ -507,7 +511,8 @@
 		<td><div align="center"><b>Report</b></div></td>
 		<td>
 			<div align="left" > 
-				<a href="reports/00_New_06_24_214827.pdf">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="https://www.notion.so/619db18bd7244210b74532287adf7b2f">[H팀 중간보고]</a>, &nbsp;&nbsp;&nbsp;
+				<a href="reports/__">[H팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
 				<a href="reports/Team_E_warning/code/">[H팀 소스코드]</a>  
 			</div>
 		</td>
