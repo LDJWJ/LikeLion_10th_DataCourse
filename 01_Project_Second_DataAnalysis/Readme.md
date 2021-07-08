@@ -197,7 +197,7 @@
 		<td>
 		    <div align="left"> 변수에 따른 음악 장르 선호도 상관관계 분석 </div></td>
 		<td>
-            <div align="center"> <a href="___">
+            <div align="center"> <a href="https://www.notion.so/619db18bd7244210b74532287adf7b2f">
 			<img src='images/08_image.jpg' width=200 height=100 alt="피땀멜론"></a>    
             </div>
         </td>
