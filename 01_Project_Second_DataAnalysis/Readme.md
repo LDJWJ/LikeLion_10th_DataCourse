@@ -95,7 +95,7 @@
 		<td>
 			<div align="left"> 쇼핑몰 의류 판매 아이템 트렌드 분석 </div></td>
 		<td>
-            <div align="center"> <a href="___">
+            <div align="center"> <a href="./reports/최종발표_B_트리플J_0709.pdf">
 				<img src='images/02_image.jpg' width=200 height=100  alt="트리플 J"></a>    
             </div>
         </td>
@@ -119,7 +119,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:이희희<br/>(팀장:이성준)<br/> 
+        <div align="center"> 팀명:이희희 <br/>(팀장:이성준)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -170,7 +170,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:ESC팀<br/>(팀장:이준명)<br/> 
+        <div align="center"> 팀명:ESC팀 <br/>(팀장:이준명)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -180,14 +180,14 @@
 		<td>
 		    <div align="left"> 기후 변화에 따른 환경영향 </div></td>
 		<td>
-            <div align="center"> <a href="reports/LikeLion_프로젝트계획서_7팀_ESC.pdf">
+            <div align="center"> <a href="reports/최종발표_G_ESC팀_0709.pdf">
 				<img src='images/07_image.png' width=200 height=100 alt="ESC팀"></a>    
             </div>
         </td>
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:피땀멜론<br/>(팀장:전명운)<br/> 
+        <div align="center"> 팀명:피땀멜론 <br/>(팀장:전명운)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -262,7 +262,7 @@
 <div align=left width=100%>
 <table border=1 width=100%>
 	<tr>
-		<td width="25%"><div align="center"><b>트리플 J</b></div></td>
+		<td width="25%"><div align="center"><b> 트리플 J </b></div></td>
 		<td width="75%"><div align="left" > 김현준 </div></td>
 	</tr>
 	<tr>
@@ -274,8 +274,8 @@
 		<td>
 			<div align="left" > 
 				<a href="reports/LikeLion_프로젝트계획서_트리플J.pdf">[B팀 프로젝트계획서]</a>
-				<a href="reports/Team_B_code/">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/Team_B_code/">[B팀 소스코드]</a>  
+				<a href="reports/./reports/최종발표_B_트리플J_0709.pdf">[B팀 결과보고]</a>, &nbsp;&nbsp;&nbsp; 
+				<a href="">[B팀 소스코드]</a>  
 			</div>
 		</td>
 	</tr>
@@ -474,7 +474,7 @@
 		<td>
 			<div align="left" > 
 				<a href="https://www.notion.so/ESC-_-f6922782ca7e48a986e46bc04acd8b73a">[G팀 중간보고]</a>, &nbsp;&nbsp;&nbsp; 
-				<a href="reports/__">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;  
+				<a href="./reports/최종발표_G_ESC팀_0709.pdf">[G팀 결과보고]</a>, &nbsp;&nbsp;&nbsp;  
 			</div>
 		</td>
 	</tr>
