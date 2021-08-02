@@ -21,6 +21,7 @@
   * STEP 03. 팀별 대회 결과 확인 2021.07.30(금)<br>
   * STEP 04. 팀별 대회 내용 정리 및 추가 분석
     * 최종 분석 제출 : 2021.08.05(금) 22:00
+	* 제출 : frontier1020@naver.com
   * STEP 05. 2021.08.06(금) 11:00 ~ 최종 결과물 발표<br>
 
 * 팀별 최종 발표   <br>
@@ -45,7 +46,7 @@
 		<div align="center"><font color="#FFFFFF"><b>Team Building</b></font></div>
 		</td>
 		<td width="300">
-		<div align="center"><font color="#FFFFFF"><b>Project Subject</b></font></div>
+		<div align="center"><font color="#FFFFFF"><b>Project Detail</b></font></div>
 		</td>
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
