@@ -11,5 +11,6 @@ https://github.com/LDJWJ/LionLike_10th_DataCourse/tree/main/00_TeamProject_First
 https://github.com/LDJWJ/LionLike_10th_DataCourse/tree/main/01_Project_Second_DataAnalysis
 
 ## 프로젝트 마지막 - dacon 머신러닝 대회 참여
+https://github.com/LDJWJ/LionLike_10th_DataCourse/tree/main/02_Dacon_Competiton
 
 
