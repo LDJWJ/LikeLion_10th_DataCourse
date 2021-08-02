@@ -63,8 +63,8 @@
 		<td>
 			<div align="left"> ___ </div></td>
 		<td>
-            <div align="center"> <a href="./reports/01.pdf">
-				<img src='images/01_pic.png' width=200 height=100  alt="8조였던1조"></a>    
+            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
+				<img src='images/01_pic.png' width=200 height=100  alt="모여봐요나뭇잎숲"></a>    
             </div>
         </td>
 	</tr>
@@ -80,7 +80,7 @@
 		<td>
 			<div align="left"> ___ </div></td>
 		<td>
-            <div align="center"> <a href="./reports/02.pdf">
+            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/02_image.jpg' width=200 height=100  alt="enter팀"></a>    
             </div>
         </td>
@@ -97,7 +97,7 @@
 		<td>
 			<div align="left"> ___ </div></td>
 		<td>
-            <div align="center"><a href="./reports/03.pdf">
+            <div align="center"><a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/03_LikeLion.png' width=200 height=100 alt="의도치않은J들"></a>    
             </div>
         </td>
@@ -114,7 +114,7 @@
 		<td>
 			<div align="left"> ___ </div></td>
 		<td>
-            <div align="center"> <a href="./reports/04.pdf">
+            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/04_image.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
@@ -131,7 +131,7 @@
 		<td>
 		    <div align="left"> ___ </div></td>
 		<td>
-            <div align="center"> <a href="./reports/05.pdf">
+            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/05_leeeunjin.png' width=200 height=100 alt="점수내려줘"></a>    
             </div>
         </td>
@@ -148,7 +148,7 @@
 		<td>
 		    <div align="left"> ___ </div></td>
 		<td>
-            <div align="center"> <a href="reports/..">
+            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
               <img src='images/06_dog_e.png' width=200 height=100 alt="gs동물"></a> 
 	        </div>
         </td>
@@ -163,7 +163,7 @@
 <hr>
 
 ##  <font color='#00AAAA'>Team Project : Final Report</font>
-- <b>Submission   </b>: 착수보고, 결과보고, 소스코드
+- <b>Submission   </b>: 결과보고
 - <b>Presentation </b>: 10min / team, Q&A
 - <b>Keep in mind </b>: <font color='#CC0000'><b> Share Lessons Learned !! </b></font>
 
