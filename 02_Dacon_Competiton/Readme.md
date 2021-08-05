@@ -25,7 +25,7 @@
   * STEP 05. 2021.08.06(금) 11:00 ~ 최종 결과물 발표<br>
 
 * 팀별 최종 발표   <br>
-  * 2021.08.06(금) 11:00 (10분 내외)
+  * 2021.08.06(금) 11:00 (10분~15분 내외)
 <hr>
 
 ## <font color='#00AAAA'>Reference Documents</font>
@@ -62,7 +62,7 @@
             <div align="left">김남은<br/>부팀장(김현준),박성준, 최아름</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/01_pic.png' width=200 height=100  alt="모여봐요나뭇잎숲"></a>    
@@ -79,7 +79,7 @@
             <div align="left">김혜린<br/>부팀장(이준명), 양효진, 양소연</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/02_image.jpg' width=200 height=100  alt="enter팀"></a>    
@@ -96,9 +96,9 @@
             <div align="left">노진희<br/>부팀장(이성준), 김지연, 조희창</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
-            <div align="center"><a href="./reports/LikeLion10_결과보고서.pdf">
+            <div align="center"><a href="https://energetic-burrito-2e4.notion.site/fc5cdcad232e4b1db0b0c2637da07a57">
 				<img src='images/03_LikeLion.png' width=200 height=100 alt="의도치않은J들"></a>    
             </div>
         </td>
@@ -113,9 +113,9 @@
             <div align="left">정희경<br/> 부팀장(전명운), 김민수, 이규림</div>
         </td>
 		<td>
-			<div align="left"> ___ </div></td>
+			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
+            <div align="center"> <a href="./reports/Bonobono_Likelion_ML_Project_20210805.pdf">
 				<img src='images/04_image.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
@@ -130,7 +130,7 @@
             <div align="left">남연주<br/> 부팀장(이예준), 류지인, 최민혁 </div>
         </td>
 		<td>
-		    <div align="left"> ___ </div></td>
+		    <div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
 				<img src='images/05_leeeunjin.png' width=200 height=100 alt="점수내려줘"></a>    
@@ -147,7 +147,7 @@
             <div align="left">김동화<br/> 부팀장(안현우), 이응진, 이지은 </div>
         </td>
 		<td>
-		    <div align="left"> ___ </div></td>
+		    <div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
               <img src='images/06_dog_e.png' width=200 height=100 alt="gs동물"></a> 
