@@ -51,6 +51,9 @@
 		<td width="120">
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
+		<td width="120">
+		<div align="center"><font color="#FFFFFF"><b>web page(URL)</b></font></div>
+		</td>
 	</tr>
 	<tr>
 		<td>
@@ -66,6 +69,11 @@
 		<td>
             <div align="center"> <a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">
 				<img src='images/01_pic.png' width=200 height=100  alt="모여봐요나뭇잎숲"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
             </div>
         </td>
 	</tr>
@@ -85,6 +93,11 @@
 				<img src='images/01_pic.png' width=200 height=100  alt="enter팀"></a>    
             </div>
         </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+            </div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -100,6 +113,11 @@
 		<td>
             <div align="center"><a href="https://energetic-burrito-2e4.notion.site/fc5cdcad232e4b1db0b0c2637da07a57">
 				<img src='images/01_pic.png' width=200 height=100 alt="의도치않은J들"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
             </div>
         </td>
 	</tr>
@@ -119,6 +137,11 @@
 				<img src='images/01_pic.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+            </div>
+        </td>
 	</tr>
 	<tr>
 		<td>
@@ -134,6 +157,11 @@
 		<td>
             <div align="center"> <a href="https://ruby-gymnast-8d8.notion.site/0b7def02a8d2453f8838de379afaefd4">
 				<img src='images/01_pic.png' width=200 height=100 alt="점수내려줘"></a>    
+            </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
             </div>
         </td>
 	</tr>
@@ -152,6 +180,11 @@
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
               <img src='images/01_pic.png' width=200 height=100 alt="gs동물"></a> 
 	        </div>
+        </td>
+		<td>
+            <div align="center"> 
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+            </div>
         </td>
 	</tr>
 </table>
