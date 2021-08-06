@@ -52,7 +52,7 @@
 		<div align="center"><font color="#FFFFFF"><b>Reports</b></font></div>
 		</td>
 		<td width="120">
-		<div align="center"><font color="#FFFFFF"><b>web page(URL)</b></font></div>
+		<div align="center"><font color="#FFFFFF"><b>작품으로 이동(pdf, web)</b></font></div>
 		</td>
 	</tr>
 	<tr>
