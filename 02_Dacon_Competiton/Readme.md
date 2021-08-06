@@ -73,7 +73,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -95,7 +95,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -117,7 +117,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -139,7 +139,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -161,7 +161,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -183,7 +183,7 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">우리의 작품으로 이동</a>    
+			<a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">작품은 여기에서</a>    
             </div>
         </td>
 	</tr>
