@@ -112,7 +112,7 @@
 			<div align="left"> [DACON]주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"><a href="https://energetic-burrito-2e4.notion.site/fc5cdcad232e4b1db0b0c2637da07a57">
-				<img src='images/3rd_J.jpg' width=200 height=100 alt="의도치않은J들"></a>    
+				<img src='images/3rd_J.jpg' width=300 height=150 alt="의도치않은J들"></a>    
             </div>
         </td>
 		<td>
@@ -134,7 +134,7 @@
 			<div align="left"> [DACON] 주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/Likelion_ML_Project-ea3947e9a7d04067b2e77867d00a9d3a">
-				<img src='images/01_pic.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
+				<img src='images/01_pic.png' width=300 height=150 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
 		<td>
@@ -156,7 +156,7 @@
 		    <div align="left"> [DACON] 주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="https://ruby-gymnast-8d8.notion.site/0b7def02a8d2453f8838de379afaefd4">
-				<img src='images/01_pic.png' width=200 height=100 alt="점수내려줘"></a>    
+				<img src='images/01_pic.png' width=300 height=150 alt="점수내려줘"></a>    
             </div>
         </td>
 		<td>
@@ -178,7 +178,7 @@
 		    <div align="left"> [DACON] 주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
-              <img src='images/01_pic.png' width=200 height=100 alt="gs동물"></a> 
+              <img src='images/01_pic.png' width=300 height=150 alt="gs동물"></a> 
 	        </div>
         </td>
 		<td>
