@@ -68,7 +68,7 @@
 			<div align="left"> DACON_주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">
-				<img src='images/01_pic.png' width=200 height=100  alt="모여봐요나뭇잎숲"></a>    
+				<img src='images/leaf_forest.jpg' width=300 height=150  alt="모여봐요나뭇잎숲"></a>    
             </div>
         </td>
 		<td>
@@ -90,7 +90,7 @@
 			<div align="left"> [DACON]주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="https://www.notion.so/AI-40a06a01803743769243a6696e32a30c">
-				<img src='images/01_pic.png' width=200 height=100  alt="enter팀"></a>    
+				<img src='images/01_pic.png' width=300 height=150  alt="enter팀"></a>    
             </div>
         </td>
 		<td>
