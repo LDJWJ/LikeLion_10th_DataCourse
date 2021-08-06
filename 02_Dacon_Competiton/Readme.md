@@ -34,7 +34,7 @@
 
 - <b>1st Subject </b>: <font color='#CC0000'><b>Analyze Social Issues Using BigData </b></font>
 - <b>Our Motto   </b>: <font color='#CC0000'><b>Learning by doing, doing by learning !! </b></font>
-
+- ※ If you click on the image on the right, you can view "Initiation Report" by team.
 
 <div align="left">
 <table border=1 bgcolor="#EEEEEE">
