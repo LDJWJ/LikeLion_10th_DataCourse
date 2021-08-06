@@ -96,7 +96,6 @@
 		<td>
             <div align="center"> 
 			<a href="https://www.notion.so/AI-40a06a01803743769243a6696e32a30c">작품은 <br>여기에서</a>   
-			
             </div>
         </td>
 	</tr>
