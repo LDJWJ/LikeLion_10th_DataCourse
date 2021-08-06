@@ -54,7 +54,7 @@
 	</tr>
 	<tr>
 		<td>
-        <div align="center"> 팀명:모여봐요나뭇잎숲 <br/>(팀장:김남은)<br/> 
+        <div align="left"> 팀명:모여봐요나뭇잎숲 <br/>(팀장:김남은)<br/> 
             <b></b>
 		</div>
 		</td>
@@ -64,7 +64,7 @@
 		<td>
 			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
+            <div align="center"> <a href="https://remarkable-crepe-e41.notion.site/_-2b36839721dc41ddba821c76d8d23143">
 				<img src='images/01_pic.png' width=200 height=100  alt="모여봐요나뭇잎숲"></a>    
             </div>
         </td>
@@ -81,8 +81,8 @@
 		<td>
 			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
-				<img src='images/02_image.jpg' width=200 height=100  alt="enter팀"></a>    
+            <div align="center"> <a href="https://www.notion.so/AI-40a06a01803743769243a6696e32a30c">
+				<img src='images/01_pic.png' width=200 height=100  alt="enter팀"></a>    
             </div>
         </td>
 	</tr>
@@ -99,7 +99,7 @@
 			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"><a href="https://energetic-burrito-2e4.notion.site/fc5cdcad232e4b1db0b0c2637da07a57">
-				<img src='images/03_LikeLion.png' width=200 height=100 alt="의도치않은J들"></a>    
+				<img src='images/01_pic.png' width=200 height=100 alt="의도치않은J들"></a>    
             </div>
         </td>
 	</tr>
@@ -116,7 +116,7 @@
 			<div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/Bonobono_Likelion_ML_Project_20210805.pdf">
-				<img src='images/04_image.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
+				<img src='images/01_pic.png' width=200 height=100 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
 	</tr>
@@ -132,8 +132,8 @@
 		<td>
 		    <div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
-				<img src='images/05_leeeunjin.png' width=200 height=100 alt="점수내려줘"></a>    
+            <div align="center"> <a href="https://ruby-gymnast-8d8.notion.site/0b7def02a8d2453f8838de379afaefd4">
+				<img src='images/01_pic.png' width=200 height=100 alt="점수내려줘"></a>    
             </div>
         </td>
 	</tr>
@@ -150,7 +150,7 @@
 		    <div align="left"> 주차수요 예측 AI 경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/LikeLion10_결과보고서.pdf">
-              <img src='images/06_dog_e.png' width=200 height=100 alt="gs동물"></a> 
+              <img src='images/01_pic.png' width=200 height=100 alt="gs동물"></a> 
 	        </div>
         </td>
 	</tr>
