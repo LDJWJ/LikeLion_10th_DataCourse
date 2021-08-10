@@ -89,13 +89,13 @@
 		<td>
 			<div align="left"> [DACON]주차수요 예측 AI경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/AI-40a06a01803743769243a6696e32a30c">
+            <div align="center"> <a href="https://star-elm-e73.notion.site/AI-40a06a01803743769243a6696e32a30c">
 				<img src='images/enter.png' width=300 height=150  alt="enter팀"></a>    
             </div>
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://www.notion.so/AI-40a06a01803743769243a6696e32a30c">작품은 <br>여기에서</a>   
+			<a href="https://star-elm-e73.notion.site/AI-40a06a01803743769243a6696e32a30c">작품은 <br>여기에서</a>   
             </div>
         </td>
 	</tr>
@@ -133,13 +133,13 @@
 		<td>
 			<div align="left"> [DACON] 주차수요 예측 AI경진대회 </div></td>
 		<td>
-            <div align="center"> <a href="https://www.notion.so/Likelion_ML_Project-ea3947e9a7d04067b2e77867d00a9d3a">
+            <div align="center"> <a href="https://aspiring-speedwell-f30.notion.site/Likelion_ML_Project-ea3947e9a7d04067b2e77867d00a9d3a">
 				<img src='images/bonobonoteam.png' width=300 height=150 alt="보노보노 없는 보노보노팀"></a>    
             </div>
         </td>
 		<td>
             <div align="center"> 
-			<a href="https://www.notion.so/Likelion_ML_Project-ea3947e9a7d04067b2e77867d00a9d3a">작품은 <br>여기에서</a>    
+			<a href="https://aspiring-speedwell-f30.notion.site/Likelion_ML_Project-ea3947e9a7d04067b2e77867d00a9d3a">작품은 <br>여기에서</a>    
             </div>
         </td>
 	</tr>
@@ -178,7 +178,7 @@
 		    <div align="left"> [DACON] 주차수요 예측 AI경진대회 </div></td>
 		<td>
             <div align="center"> <a href="./reports/gs동물_PPT.pdf">
-              <img src='images/01_pic.png' width=300 height=150 alt="gs동물"></a> 
+              <img src='images/gs_ani.png' width=300 height=150 alt="gs동물"></a> 
 	        </div>
         </td>
 		<td>
