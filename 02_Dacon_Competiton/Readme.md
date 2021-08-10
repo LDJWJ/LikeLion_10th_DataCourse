@@ -183,8 +183,8 @@
         </td>
 		<td>
             <div align="center"> 
-			<a href="./reports/gs동물_PPT.pdf">작품은 <br>여기에서</a>  
-			<a href="https://github.com/likelion-aischool-10/parking_demand_competition">github</a>  
+			<a href="./reports/gs동물_PPT.pdf">작품은 <br>여기에서[pdf]</a>  
+			<a href="https://github.com/likelion-aischool-10/parking_demand_competition"><br> github Link</a>  
             </div>
         </td>
 	</tr>
